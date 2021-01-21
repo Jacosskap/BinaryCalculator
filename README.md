@@ -1,1 +1,1 @@
-# BinaryCalculator
+# Bodzary Calculator
